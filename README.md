@@ -4,7 +4,6 @@ Just another repository
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Пример веб-страницы</title>
  </head>
  <body>
   <h1>Заголовок</h1>
@@ -13,3 +12,4 @@ Just another repository
   <p>Второй абзац.</p>
  </body>
 </html>
+
